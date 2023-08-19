@@ -54,7 +54,7 @@ using SQL statement created data frame.**
     data_multi_age_unpivot.csv
 
 **Data Model in Power BI:**
-
+  Followed best practice to make the performance faster.
     Created one to one relationship between Attendance.csv and Multi age composite class csv using Primary key
 
     Primary Key :- created Primary key by combining School Name | School Code | Year
